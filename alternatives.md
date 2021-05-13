@@ -1,5 +1,6 @@
 # ALTERNATIVES TO BLOATWARE(x2)
 The list to add a few more things to [mayfrost/guides/ALTERNATIVES.md](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+Why this exists? Since mayfrost went MIA there's currently no point to spam PRs to pile. This is (theoretically) temporary list to contribute back later.
 
 ## Command Line
 * __Multiplexer__: [mtm](https://github.com/deadpixi/mtm)
